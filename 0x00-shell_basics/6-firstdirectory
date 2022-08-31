@@ -1,2 +1,2 @@
 #!/bin/bash
-#kkdir /tmp/mv/my_first_directory
+mkdir /tmp/mv/my_first_directory
