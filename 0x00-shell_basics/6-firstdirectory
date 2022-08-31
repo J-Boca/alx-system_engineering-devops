@@ -1,2 +1,2 @@
-#1/bin/bash
-head -3 ianca | tail -n 1
+#!/bin/bash
+#kkdir /tmp/mv/my_first_directory
